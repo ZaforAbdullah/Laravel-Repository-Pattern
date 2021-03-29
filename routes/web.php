@@ -1,5 +1,7 @@
 <?php
 
+//Routes for all blogs and single blog with ID
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes

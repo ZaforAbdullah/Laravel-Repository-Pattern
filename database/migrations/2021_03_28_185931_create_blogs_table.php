@@ -1,5 +1,7 @@
 <?php
 
+//Created migration with foreign key for users table
+
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;

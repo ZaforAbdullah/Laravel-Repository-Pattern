@@ -1,5 +1,7 @@
 <?php
 
+//BlogController
+
 namespace App\Http\Controllers;
 
 

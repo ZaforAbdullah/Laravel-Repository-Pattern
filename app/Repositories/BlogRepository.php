@@ -1,5 +1,7 @@
 <?php
 
+//BlogRepositoryInterface implemented for Blog Repository
+
 namespace App\Repositories;
 
 use App\Models\Blog;

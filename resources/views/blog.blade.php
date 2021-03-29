@@ -1,3 +1,4 @@
+<!-- blog blade -->
 @foreach($blogs as $blog)
-         {{ $blog }}
+        {{ $blog }}
  @endforeach
